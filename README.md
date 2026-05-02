@@ -1,4 +1,4 @@
-Done by: @BreicheSinal @OmarBr-5 
+Done by: [BreicheSinal](https://github.com/BreicheSinal) [OmarBr-5](https://github.com/OmarBr-5)
 # Trading Bot
 
 A Telegram-driven trading automation stack with a browser dashboard.
