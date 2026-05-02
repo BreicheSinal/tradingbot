@@ -1,3 +1,4 @@
+Done by: https://github.com/OmarBr-5 
 # Trading Bot
 
 A Telegram-driven trading automation stack with a browser dashboard.
